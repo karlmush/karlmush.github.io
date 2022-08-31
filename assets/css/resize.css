@@ -1,0 +1,91 @@
+@media all and (max-width: 1205px) {
+    .block-stats{
+        padding-bottom: 0;
+    }
+}
+@media all and (max-width: 991px) {
+    .block-offers .item{
+        padding-top: 0;
+    }
+    .block-offers .block-offers--item .block-offres--item_image img{
+        width: 50%;
+    }
+    .block-offers .block-offers--item{
+        padding: 20px;
+    }
+    .sys-shadow{
+        display: none;
+    }
+    section{
+        margin: 100px 0;
+    }
+    .main-block{
+        margin-top: 0px;
+    }
+    .main-block--content{
+        margin: 0px !important;
+
+    }
+    .block-footer{
+        flex-direction: column;
+        gap: 55px;
+    }
+    .block-stats-text {
+        top: -73px;
+    }
+    .block-stats-image {
+        left: 0;
+        position: relative;
+    }
+    .block-stats-ul{
+        padding-top: 0px;
+    }
+    .blob-image{
+        position: relative;
+        width: 100%;
+        top: 0;
+    }
+    .block-privileges__item{
+
+    }
+    .block-privileges-items{
+        display: block;
+    }
+    .text-nowrap{
+        white-space: pre-wrap !important;
+    }
+    .footer-wrapper{
+        flex-direction: column;
+        gap: 40px;
+    }
+    .block-privileges__item{
+        width: 100%
+    }
+    .block-stats-text, h1{
+        top: 0;
+        position: relative;
+        font-size: 3em !important;
+        text-align: center;
+    }
+    .block-stats{
+        margin: 20px 0px !important;
+    }
+    .block-question{
+        margin-top: 0;
+    }
+    .block-stats{
+        margin-bottom: 0 !important;
+    }
+    .social-link--wrapper{
+        flex-direction: column;
+    }
+}
+@media all and (max-width: 768px) {
+
+
+
+}
+
+@media all and (max-width: 500px) {
+
+}

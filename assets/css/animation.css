@@ -1,0 +1,15 @@
+/* Animations keyframes */
+
+/* Animations hover */
+.shadow3d:hover {
+    transition: .4s;
+    box-shadow: 1px 1px #895cc7, 2px 2px #895cc7, 3px 3px #895cc7, 4px 4px #895cc7, 5px 5px #895cc7, 6px 6px #895cc7, 7px 7px #895cc7, 8px 8px #895cc7, 9px 9px #895cc7, 10px 10px #0c1529, 12px 12px #0c1529, 13px 13px #0c1529, 14px 14px #0c1529, 15px 15px #0c1529, 16px 16px #53bfe8, 17px 17px #53bfe8, 18px 18px #53bfe8, 19px 19px #53bfe8, 20px 20px #53bfe8;
+    transform: translate(-10px, -10px);
+}
+.block-market--content__button:hover {
+    opacity: 1;
+}
+.requirements:hover{
+    transform: translate(10px, -20px);
+    transition: .4s;
+}
